@@ -1,8 +1,8 @@
 {
   "name": "vpub-bitcore-lib",
   "version": "0.16.0",
-  "description": "A pure and powerful JavaScript Particl library.",
-  "author": "Particl <hello@vpub.io>",
+  "description": "A pure and powerful JavaScript Vpub library.",
+  "author": "Vpub <hello@vpub.io>",
   "main": "index.js",
   "scripts": {
     "lint": "gulp lint",
